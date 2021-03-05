@@ -1,21 +1,3 @@
----
-title: "保研院校及专业统计"
-author: "Smiling Jimmy"
-date: "`r format(Sys.time(), '%H:%M:%S %d %m, %Y')`"
-output: 
-  html_document: 
-    highlight: zenburn
-    number_sections: yes
-    theme: journal
-    toc: yes
-    toc_float: yes
----
-
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
-```
-
-
 # 北京大学
 
 
